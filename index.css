@@ -12,7 +12,7 @@ body {
     width: 400px;
     margin: 10px auto;
     background-color: 90593F; 
-    color: white; 
+    color: f1faee; 
     
     
 }  
@@ -66,7 +66,7 @@ h4, p {
 }
 footer, a {
     text-align: center;
-    color: #90593F;
+    color: f1faee;
     font-style: italic;
     text-shadow: 0px 0px 2px black;
 }
