@@ -35,8 +35,8 @@ body {
       
 }
 
-h4, p {
- 
+h4, p, h1 {
+ color: #f1faee;
  text-align: center;
 
 }
