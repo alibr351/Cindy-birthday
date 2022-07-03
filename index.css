@@ -12,8 +12,8 @@ body {
     text-align: center;
     width: 400px;
     margin: 10px auto;
-    background-color: 90593F; 
-    color: f1faee; 
+    background-color: linear-gradient(#90593F, #fa9372)
+    color: #f1faee; 
     
     
 }  
@@ -65,7 +65,7 @@ h4, p, h1 {
 }
 footer, a {
     text-align: center;
-    color: f1faee;
+    color: #f1faee;
     font-style: italic;
     text-shadow: 0px 0px 2px black;
 }
