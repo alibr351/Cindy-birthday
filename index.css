@@ -19,12 +19,13 @@ body {
 
 #font {
     font-family: 'birthday';
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
 }
 
 .img-size {
-    width: 200px;
+    width: 150px;
+    height: 400
     border: 5px solid #D48C3E;
     border-radius: 50px;
     margin: 30px;
@@ -52,16 +53,16 @@ h4, p, h1 {
     background-image: url("images/wrapper.jpg");
     background-size: cover;
 }
-#gift-img-there:hover {
+#gift-img-there:active, :hover {
     background-image: url("images/giphy.webp");
 }
-#gift-img-dance:hover {
+#gift-img-dance:active, :hover {
     background-image: url("images/wesnce.webp"); 
 }
-#gift-img-teetoff:hover {
+#gift-img-teetoff:active, :hover {
     background-image: url("images/teetoff.webp");
 }
-#gift-img-extin:hover {
+#gift-img-extin:active, :hover {
     background-image: url("images/extin.webp");
 }
 footer, a {
