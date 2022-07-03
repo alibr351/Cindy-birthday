@@ -9,6 +9,7 @@
 }
  
 body {
+    text-align: center;
     width: 400px;
     margin: 10px auto;
     background-color: 90593F; 
@@ -31,10 +32,7 @@ body {
     margin: 30px;
     
 }
-.container { 
-    display: flex; 
-      
-}
+
 
 h4, p, h1 {
  color: #f1faee;
