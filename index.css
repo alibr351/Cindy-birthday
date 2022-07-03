@@ -53,13 +53,13 @@ h4, p, h1 {
     background-image: url("images/wrapper.jpg");
     background-size: cover;
 }
-#gift-img-there:active, :hover {
+#gift-img-there:active {
     background-image: url("images/giphy.webp");
 }
-#gift-img-dance:active, :hover {
+#gift-img-dance:active {
     background-image: url("images/wesnce.webp"); 
 }
-#gift-img-teetoff:active, :hover {
+#gift-img-teetoff:active {
     background-image: url("images/teetoff.webp");
 }
 #gift-img-extin:active, :hover {
