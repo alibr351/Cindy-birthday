@@ -51,16 +51,16 @@ h4, p, h1 {
     background-image: url("images/wrapper.jpg");
     background-size: cover;
 }
-#gift-img-there:active {
+#gift-img-there:hover {
     background-image: url("images/giphy.webp");
 }
-#gift-img-dance:active {
+#gift-img-dance:hover {
     background-image: url("images/wesnce.webp"); 
 }
-#gift-img-teetoff:active {
+#gift-img-teetoff:hover {
     background-image: url("images/teetoff.webp");
 }
-#gift-img-extin:active, :hover {
+#gift-img-extin:hover {
     background-image: url("images/extin.webp");
 }
 footer, a {
