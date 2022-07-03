@@ -60,7 +60,7 @@ h4, p, h1 {
 #gift-img-teetoff:hover {
     background-image: url("images/teetoff.webp");
 }
-#gift-img-extin:hover {
+#gift-img-extin:active {
     background-image: url("images/extin.webp");
 }
 footer, a {
