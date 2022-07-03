@@ -1,4 +1,4 @@
- @font-face {
+@font-face {
      font-family: 'birthday';
      src: url("SweetYellow-ALPEA.ttf")
  }
@@ -12,7 +12,7 @@ body {
     text-align: center;
     width: 400px;
     margin: 10px auto;
-    background-image: linear-gradient(#90593F, #fa9372)
+    background-image:  linear-gradient(#90593F, #fa9372);
     color: #f1faee; 
     
     
@@ -26,7 +26,7 @@ body {
 
 .img-size {
     width: 150px;
-    height: 400
+    height: 400;
     border: 5px solid #D48C3E;
     border-radius: 50px;
     margin: 30px;
@@ -60,7 +60,7 @@ h4, p, h1 {
 #gift-img-teetoff:hover {
     background-image: url("images/teetoff.webp");
 }
-#gift-img-extin:active {
+#gift-img-extin:hover {
     background-image: url("images/extin.webp");
 }
 footer, a {
